@@ -3,12 +3,19 @@ This repository covers the fundamentals of Machine Learning using Python, focusi
 
 Topics Included:
 ✅ Python Basics for ML (Data Types, Loops, Functions)
+
 ✅ NumPy & pandas for Data Handling
+
 ✅ Data Preprocessing & Cleaning
+
 ✅ Exploratory Data Analysis (EDA)
+
 ✅ Introduction to Machine Learning Algorithms
+
 ✅ Implementation with Scikit-Learn
+
 ✅ Mini Projects & Exercises
+
 
 This is the first part of the ML series, aimed at beginners looking to build a strong foundation in Python for ML.
 
