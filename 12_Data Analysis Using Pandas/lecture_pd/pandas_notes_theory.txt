@@ -1,0 +1,29 @@
+# Pandas is a python package providing fast , flexible and expressive data stru. designed to make working with "relational" data both easy  and  intuitive.
+# here are just a few of the things that pandas does well:  It has funtions for analyzing , cleaning , exploring , and manipulating data.
+# The name "Pandas" has a referance  to both "Panel Data" , and "Python Data Analysis" and was created by Wes McKinney in 2008.
+
+
+
+
+##  Pandas Application  ##
+
+# Easy handling of missing data.
+# Size mutability: colums can be inserted and deleted from DataFrame and higher dimentional objects.
+# Automatic and explicit data alignment: object can be explicitly aligned to a set of labels , or the user can simply ignore the labels and let Seeries, DataFrame, ... etc.
+# Automatically align the data for you in computations.
+# Powerful, flexible group by fintioality.
+#Intelligent label-based slicing , fancy indexing, and subsetting of large data set.
+# Intuitive merging and pivoting of data sets.
+
+
+
+####   Data Structure in   ###
+The best way to think about the pandas data structure is as flexible containers for lower dimention data. For example Dataframe is a container for Series, and Series is a continer for scalars.  We would like to be able to insert and remove objects from these containers in a dictionary-like fashion.
+
+
+###   Series in Pandas   ###
+Pandas series is a one-dimention labeld array capable of holding data of any type(integer , string , float, python Object, ...ect.). The axis labels are collectively called index. Pandas Series is nothing but a column in an exce sheet.
+
+
+###   DataFrame   ###
+Pandas Dataframe is 2-D size-mutable , potentially heterogeneous tabular data structure with labled axes (rows and column). A Data frame is a 2-D data stru. , i.e., data is aligned in a tabular fashion in row and column. Pandas DataFrame consists of three principal components, the data , rows and columns.
